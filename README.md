@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+My code imports a large hummingbird dataset, cleans it, and creates a model-ready subset of 5,000 randomly sampled observations. It explores basic structure and data types, summarizes categorical variables, and visualizes distributions using the dplyr and ggplot2 packages. The code also groups the species into broader taxonomic categories and compares survival across these new groups. It generates tables showing counts and proportions for key covariates like species, sex, age, season, and rescue situation. It also produces multiple plots, including a bar plot of admissions by rehabilitation center, and exports both the cleaned dataset and graphs as files.
 
 ## Project Organization
 ------------
